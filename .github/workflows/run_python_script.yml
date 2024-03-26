@@ -29,7 +29,7 @@ jobs:
             - name: Commit file
               run: |
                   git config --local user.name 'colde99'
-                  git config --local user.email 'coldegg99@gmail.com'
+                  git config --local user.email 'cold_egg@gmail.com'
                   git add naver.txt
                   git commit -m "Add naver.txt"
             - name: Push
